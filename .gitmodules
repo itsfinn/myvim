@@ -1,0 +1,12 @@
+[submodule "pack/mypackage/start/vim-go"]
+	path = pack/mypackage/start/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "pack/mypackage/start/nerdtree"]
+	path = pack/mypackage/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/mypackage/start/YouCompleteMe"]
+	path = pack/mypackage/start/YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe.git
+[submodule "pack/mypackage/start/tagbar"]
+	path = pack/mypackage/start/tagbar
+	url = https://github.com/majutsushi/tagbar.git
